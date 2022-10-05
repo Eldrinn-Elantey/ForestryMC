@@ -74,7 +74,7 @@ for.circuit.layout.farms.manual.name=Ручная ферма
 for.circuit.layout.farms.manual.usage=Ручные фермы
 
 for.circuit.layout.machine.upgrade.name=Улучшение механизма
-#Figure out for.circuit.layout.machine.upgrade.usage=Socketed Machines
+for.circuit.layout.machine.upgrade.usage=Socketed Machines
 
 for.flowers.cacti=Кактусы
 for.flowers.end=Край
@@ -93,6 +93,7 @@ fluid.for.honey=Мёд
 fluid.ice=Молотый лёд
 fluid.juice=Фруктовый сок
 fluid.short.mead=Питный мёд
+fluid.mead=Mead
 fluid.milk=Молоко
 fluid.seedoil=Растительное масло
 tile.forestry.fluid.bioethanol.name=Этанол
@@ -102,6 +103,7 @@ tile.forestry.fluid.for.honey.name=Мёд
 tile.forestry.fluid.ice.name=Молотый лёд
 tile.forestry.fluid.juice.name=Фруктовый сок
 tile.forestry.fluid.short.mead.name=Питный мёд
+tile.forestry.fluid.mead.name=Mead
 tile.forestry.fluid.milk.name=Молоко
 tile.forestry.fluid.seedoil.name=Растительное масло
 
@@ -157,7 +159,6 @@ for.gui.flowers=Вид цветка
 for.gui.flyer=устойчивый летун
 for.gui.flyer.tooltip=устойчивый летун
 for.gui.general=Общий
-forestry.allele.gigantic=Гигантская
 for.gui.heat=Нагрев
 for.gui.hellish=Адский
 for.gui.hot=Горячая
@@ -270,8 +271,9 @@ for.gui.solder.south=Ю
 for.gui.solder.east=В
 for.gui.solder.west=З
 
-forestry.allele.normal=Обычный
 forestry.allele.average=Средний
+forestry.allele.gigantic=Гигантская
+forestry.allele.normal=Обычный
 
 forestry.allele.slowest=Самый медленный
 forestry.allele.slower=Очень медленный
